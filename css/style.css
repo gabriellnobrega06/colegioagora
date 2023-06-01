@@ -1,3 +1,44 @@
 img{
-    width: 200px;
+    width: 150px;
 }
+
+body {
+    font-size: 18px;
+    margin: 0;
+}
+
+li {
+    flex-grow: 1;
+    margin: 10px;
+    
+}
+
+.ul-menu {
+    display: flex;
+    list-style: none;
+    background-color: #b6b6b6;
+    justify-content:left;
+    padding: 10px; 
+    
+}
+
+a:link {
+    color: rgb(245, 245, 245);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: rgb(80, 80, 80);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: underline;
+  }
