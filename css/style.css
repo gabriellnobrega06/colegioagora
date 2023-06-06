@@ -93,6 +93,8 @@ a:link {
   .pag_equipe_pad_bottom{
     margin-bottom: 20px;
     padding-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 5px 5px 1px rgba(0, 0, 0, 0.5);
   }
 
   footer {
