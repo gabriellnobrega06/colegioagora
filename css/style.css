@@ -42,3 +42,57 @@ a:link {
     background-color: transparent;
     text-decoration: underline;
   }
+  body 
+  {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+  }
+
+  header
+  {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+  }
+
+  h1 
+  {
+      margin: 0;
+  }
+
+  nav 
+  {
+      background-color: #f2f2f2;
+      padding: 10px;
+  }
+
+  section 
+  {
+      padding: 20px;
+      margin-bottom: 20px;
+  }
+
+  h2 
+  {
+      color: #333;
+      text-align: center;
+  }
+
+  h3  
+  {
+      margin: 100px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  p {
+      line-height: 1.5;
+  }
+
+  footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+  }
