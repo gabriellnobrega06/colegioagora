@@ -76,7 +76,7 @@ a:link {
 
   h2 
   {
-      color: #333;
+      color: #000;
       text-align: center;
   }
 
@@ -88,6 +88,11 @@ a:link {
 
   p {
       line-height: 1.5;
+  }
+
+  .pag_equipe_pad_bottom{
+    margin-bottom: 20px;
+    padding-bottom: 10px;
   }
 
   footer {
